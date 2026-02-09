@@ -6,3 +6,5 @@
   - Características que va a tener tu problema
 4. DISEÑO Y DESARROLLO
   - Como va a estar construido tu sistema y programar.
+5. PRUEBAS
+  - El sistema funciona correctamente?
