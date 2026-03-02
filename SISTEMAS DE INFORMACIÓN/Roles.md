@@ -13,10 +13,10 @@ Concepto importante:
  - Usuarios administrativos / tacticos  
    Supervisan procesos, requieren reportes y toman decisiones a mediano plazo.
    
- - Usuarios estratégicos
+ - Usuarios estratégicos  
    Alta gerencia que requiere información resumida y analítica para apoyar decisiones estratégicas.
    
- - Usuarios externos
+ - Usuarios externos  
    Clientes, proveedores y entidades reguladoras.
 ---   
  ### POR NIVEL DE EXPERIENCIA TECNOLÓGICA 
